@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class phone {
     private final String number;
     private final String model;
